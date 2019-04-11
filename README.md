@@ -46,7 +46,7 @@ Frontend code is deployed on port 4200 of the local host and backend code at 808
 
 ### Frontend Folder/Package Structure
 * App
-  *Error
+  * Error
   * Footer
   * List TODOs
   * Login
